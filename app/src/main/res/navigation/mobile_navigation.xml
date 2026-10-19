@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_root"
+    app:startDestination="@id/navigation_splash">
+
+    <fragment
+        android:id="@+id/navigation_splash"
+        android:name="com.example.financemanager.fragments.SplashFragment"
+        android:label="Splash" />
+
+    <fragment
+        android:id="@+id/navigation_login"
+        android:name="com.example.financemanager.fragments.LoginFragment"
+        android:label="Login" />
+
+    <fragment
+        android:id="@+id/navigation_signup"
+        android:name="com.example.financemanager.fragments.SignUpFragment"
+        android:label="Sign Up" />
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.financemanager.fragments.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/navigation_transactions"
+        android:name="com.example.financemanager.fragments.TransactionsFragment"
+        android:label="Transactions" />
+
+    <fragment
+        android:id="@+id/navigation_accounts"
+        android:name="com.example.financemanager.fragments.AccountsFragment"
+        android:label="Accounts" />
+
+    <fragment
+        android:id="@+id/navigation_planning"
+        android:name="com.example.financemanager.fragments.PlanningFragment"
+        android:label="Plans" />
+
+    <fragment
+        android:id="@+id/navigation_analytics"
+        android:name="com.example.financemanager.fragments.AnalyticsFragment"
+        android:label="Reports" />
+</navigation>

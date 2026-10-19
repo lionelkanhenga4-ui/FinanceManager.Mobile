@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette -->
+    <color name="primary">#2563EB</color>
+    <color name="primary_dark">#1D4ED8</color>
+    <color name="primary_light">#DBEAFE</color>
+    <color name="primary_container">#EFF6FF</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary Palette -->
+    <color name="secondary">#0EA5E9</color>
+    <color name="secondary_container">#E0F2FE</color>
+
+    <!-- Background & Surface -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="card_stroke">#CBD5E1</color>
+
+    <!-- High-Contrast Text Colors (Dark & Highly Visible) -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#334155</color>
+    <color name="text_muted">#475569</color>
+
+    <!-- Financial Status Colors -->
+    <color name="income_green">#059669</color>
+    <color name="income_bg">#D1FAE5</color>
+    <color name="expense_red">#DC2626</color>
+    <color name="expense_bg">#FEE2E2</color>
+
+    <!-- Accent & Category Colors -->
+    <color name="cat_food">#F59E0B</color>
+    <color name="cat_transport">#8B5CF6</color>
+    <color name="cat_housing">#3B82F6</color>
+    <color name="cat_utilities">#06B6D4</color>
+    <color name="cat_health">#EC4899</color>
+    <color name="cat_entertainment">#A855F7</color>
+    <color name="cat_shopping">#F43F5E</color>
+    <color name="cat_salary">#059669</color>
+    <color name="cat_default">#334155</color>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Personal Finance Manager</string>
+    <string name="brand_title">Personal Finance</string>
+    <string name="tagline">M A N A G E R</string>
+    <string name="app_logo">Personal Finance Manager logo</string>
+
+    <!-- Auth -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_sub">Sign in to manage your finances</string>
+    <string name="create_account">Create Account</string>
+    <string name="signup_sub">Start managing your money today</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dont_have_account">Don\'t have an account? Sign up</string>
+
+    <!-- Navigation -->
+    <string name="analytics">Analytics</string>
+    <string name="accounts">Accounts</string>
+
+    <!-- Home -->
+    <string name="overview">Overview</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="income">Income</string>
+    <string name="expense">Expenses</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="see_all">See All</string>
+    <string name="no_transactions_yet">No transactions yet</string>
+    <string name="add_transaction_prompt">Tap the + button to add your first transaction</string>
+
+    <!-- Transactions -->
+    <string name="transaction_history">Transaction History</string>
+    <string name="filter_all">All</string>
+    <string name="filter_income">Income</string>
+    <string name="filter_expense">Expenses</string>
+
+    <!-- Analytics & Budgets -->
+    <string name="spending_analytics">Spending &amp; Analytics</string>
+    <string name="category_breakdown">Category Breakdown</string>
+    <string name="budgets_goals">Budgets &amp; Goals</string>
+    <string name="no_data_analytics">Add transactions to view category trends</string>
+
+    <!-- Accounts -->
+    <string name="my_accounts">My Accounts</string>
+    <string name="total_accounts_balance">Total Accounts Balance</string>
+
+    <!-- Dialog -->
+    <string name="add_transaction">Add Transaction</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="account">Account</string>
+    <string name="category">Category</string>
+    <string name="save">Save Transaction</string>
+    <string name="add_income">Add Income</string>
+    <string name="add_expense">Add Expense</string>
+</resources>
